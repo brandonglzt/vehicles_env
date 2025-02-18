@@ -9,6 +9,4 @@ Esta aplicación permite explorar datos de anuncios de coches usados en EE.UU. a
 - Selección de gráficos mediante botones o casillas de verificación.
 
 ## Cómo ejecutar la aplicación
-1. Instalar las dependencias:  
-   ```bash
-   pip install -r requirements.txt
+streamlit run vehicles_app.py
